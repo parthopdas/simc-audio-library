@@ -31,4 +31,4 @@ Get-Content $ids | ForEach-Object {
 
 # dir | sort -Property Name | % { "{0},{1}" -f $_.FullName,$_.Length } >..\g4.files.txt
 
-# gc .\id.txt | % { youtube-dl -j "https://www.youtube.com/watch?v=$_" >"$_.json" }
+# gc .\ids.txt | ? { -not (Test-Path ".\metadata\$_.json" ) } | % { youtube-dl -j "https://www.youtube.com/watch?v=$_" >".\metadata\$_.json" }
