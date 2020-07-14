@@ -1,3 +1,36 @@
+231
+kāyappakopaṃ rakkheyya, kāyena saṃvuto siyā.
+kāyaduccaritaṃ hitvā, kāyena sucaritaṃ care.
+
+232
+vacīpakopaṃ rakkheyya, vācāya saṃvuto siyā.
+vacīduccaritaṃ hitvā, vācāya sucaritaṃ care.
+
+233
+manopakopaṃ rakkheyya, manasā saṃvuto siyā.
+manoduccaritaṃ hitvā, manasā sucaritaṃ care.
+
+234
+kāyena saṃvutā dhīrā, atho vācāya saṃvutā.
+manasā saṃvutā dhīrā, te ve suparisaṃvutā.
+---
+227
+porāṇametaṃ atula, netaṃ ajjatanāmiva.
+nindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ.
+mitabhāṇimpi nindanti, natthi loke anindito.
+
+228
+na cāhu na ca bhavissati, na cetarahi vijjati.
+ekantaṃ nindito poso, ekantaṃ vā pasaṃsito.
+
+229
+yaṃ ce viññū pasaṃsanti, anuvicca suve suve.
+acchiddavuttiṃ medhāviṃ, paññāsīlasamāhitaṃ.
+
+230
+nikkhaṃ jambonadasseva, ko taṃ ninditumarahati.
+devāpi naṃ pasaṃsanti, brahmunāpi pasaṃsito.
+---
 226
 sadā jāgaramānānaṃ, ahorattānusikkhinaṃ.
 nibbānaṃ adhimuttānaṃ, atthaṃ gacchanti āsavā.
@@ -755,15 +788,10 @@ sekho dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati.
 43.
 na taṃ mātā pitā kayirā, aññe vāpi ca ñātakā.
 sammāpaṇihitaṃ cittaṃ, seyyaso naṃ tato kare.
-
-Neither mother, father, nor any other relative can do one
-greater good than one's own well-directed mind.
 ---
 42.
 diso disaṃ yaṃ taṃ kayirā, verī vā pana verinaṃ.
 micchāpaṇihitaṃ cittaṃ, pāpiyo naṃ tato kare.
-
-Whatever harm an enemy may do to an enemy, or a hater to a hater, an ill-directed mind inflicts on oneself a greater harm.
 ---
 41.
 aciraṃ vatayaṃ kāyo, pathaviṃ adhisessati.
